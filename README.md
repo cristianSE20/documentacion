@@ -25,3 +25,6 @@ UPIICSAExplore está diseñado con una serie de características intuitivas para
   - Una descripción detallada del lugar.
   - Una categoría para una mejor organización (ej. "Comida", "Estudio", "Relax").
   - La opción de marcarlo como privado (visible solo para ti) o público (compartido con la comunidad).
+- Todos tus pines personalizados muestran directamente en el mapa con íconos de pin distintivos, facilitando la identificación de ubicaciones importantes de un vistazo.
+- Accede a una sección dedicada donde puedes ver, buscar y filtrar pines compartidos por otros estudiantes. Cada pin comunitario incluye su descripción completa y el
+  nombre del usuario que lo compartió, creando una especie de "muro" de descubrimientos colaborativos. Esta funcionalidad te permite explorar fácilmente los lugares más relevantes y útiles identificados por la propia comunidad estudiantil, asegurando que la información       compartida esté siempre accesible en un único lugar consolidado.
