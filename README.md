@@ -14,3 +14,10 @@ lugares tranquilos para estudiar, zonas con excelente cobertura Wi-Fi, opciones 
 A diferencia de las aplicaciones de mapas genéricas, que no ofrecen el nivel de detalle necesario para el día a día estudiantil, UPIICSAExplore es el primer mapa creado 
 específicamente por y para la comunidad UPIICSA. Mientras que otras herramientas permiten la personalización, nuestra aplicación se distingue por su facilidad de uso y 
 la capacidad de compartir descubrimientos directamente con tus compañeros, fomentando una experiencia de exploración colaborativa y siempre actualizada, ¡sin complicaciones!
+
+## Características Principales
+
+UPIICSAExplore está diseñado con una serie de características intuitivas para enriquecer tu experiencia en el campus:
+
+
+- ✅ 
