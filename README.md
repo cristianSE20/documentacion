@@ -15,9 +15,13 @@ A diferencia de las aplicaciones de mapas genéricas, que no ofrecen el nivel de
 específicamente por y para la comunidad UPIICSA. Mientras que otras herramientas permiten la personalización, nuestra aplicación se distingue por su facilidad de uso y 
 la capacidad de compartir descubrimientos directamente con tus compañeros, fomentando una experiencia de exploración colaborativa y siempre actualizada, ¡sin complicaciones!
 
-## Características Principales
+## Características Principales 🛠️
 
 UPIICSAExplore está diseñado con una serie de características intuitivas para enriquecer tu experiencia en el campus:
 
-
-- ✅ 
+- Creación Intuitiva de Pines Personalizados: Simplemente toca cualquier punto en el mapa para iniciar la creación de un nuevo pin. Cada pin puede ser enriquecido con:
+  - Una fotografía capturada al instante.
+  - Un título descriptivo.
+  - Una descripción detallada del lugar.
+  - Una categoría para una mejor organización (ej. "Comida", "Estudio", "Relax").
+  - La opción de marcarlo como privado (visible solo para ti) o público (compartido con la comunidad).
