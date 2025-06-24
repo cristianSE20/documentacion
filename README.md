@@ -51,3 +51,24 @@ Es el encargado de gestionar la persistencia y recuperación de los pines.
 - El ViewModel actúa como un puente entre la Vista y el Modelo. Contiene la lógica de presentación, preparando los datos del Modelo para ser mostrados en la Vista y manejando las interacciones del usuario de la Vista, comunicándolas al Modelo.
 
 Esta arquitectura garantiza que la aplicación móvil se mantenga modular y robusta, permitiendo una gestión eficiente de la creación de pines, la visualización en el mapa y la interacción con los pines de la comunidad, todo ello sincronizado a través de nuestra API y persistido en Azure.
+
+## Requisitos del Dispositivo para el Usuario 📱
+
+Para disfrutar de una experiencia óptima con UPIICSAExplore, tu dispositivo Android debe cumplir con las siguientes especificaciones:
+
+- Versión del Sistema Operativo Android:
+  - Mínimo Soportado: Android 7.0 (Nougat, API 24).
+  - Recomendado para un Rendimiento Óptimo: Android 9.0 (Pie, API 28) o superior, ya que estas versiones incluyen mejoras significativas en rendimiento y gestión de memoria que benefician a aplicaciones con mapas interactivos.
+
+- Hardware del Dispositivo:
+  - Procesador (CPU): Para un funcionamiento fluido y una navegación sin interrupciones en el mapa, se recomienda un procesador de ocho núcleos (Octa-core) de gama media (como un Qualcomm Snapdragon 660 o MediaTek Helio G85) o superior. Esto asegurará transiciones suaves al desplazar y hacer zoom.
+  - Memoria RAM: Se necesitan al menos 4 GB de RAM para que la aplicación funcione correctamente junto con el sistema operativo y otras aplicaciones. Sin embargo, 6 GB de RAM o más son ideales para una experiencia más cómoda y sin demoras.
+  - Almacenamiento Interno: Es aconsejable disponer de un mínimo de 64 GB de almacenamiento interno.
+ 
+ ## Autores 📕
+
+UPIICSAExplore fue desarrollado gracias al esfuerzo y dedicación del siguiente equipo:
+
+- Cristian Solis: Responsable del desarrollo del Front-End de la aplicación móvil y el diseño de la base de datos.
+- Daniel: Encargado del desarrollo del Back-End, la creación de la API de sincronización y el montaje de la base de datos en Azure.
+
